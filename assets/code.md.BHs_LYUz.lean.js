@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ag as l}from"./chunks/framework.C3MuDajo.js";const g=JSON.parse('{"title":"代码架构详解","description":"","frontmatter":{},"headers":[],"relativePath":"code.md","filePath":"code.md"}'),p={name:"code.md"};function h(k,s,e,t,r,E){return a(),n("div",null,[...s[0]||(s[0]=[l("",37)])])}const y=i(p,[["render",h]]);export{g as __pageData,y as default};

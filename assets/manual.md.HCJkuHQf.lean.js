@@ -1,0 +1,1 @@
+import{_ as e,o as l,c as a,ag as d}from"./chunks/framework.C3MuDajo.js";const f=JSON.parse('{"title":"操作手册","description":"","frontmatter":{},"headers":[],"relativePath":"manual.md","filePath":"manual.md"}'),i={name:"manual.md"};function o(s,t,n,r,c,g){return l(),a("div",null,[...t[0]||(t[0]=[d("",36)])])}const x=e(i,[["render",o]]);export{f as __pageData,x as default};

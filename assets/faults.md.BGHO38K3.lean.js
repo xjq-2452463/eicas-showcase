@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as a,ag as l}from"./chunks/framework.C3MuDajo.js";const y=JSON.parse('{"title":"故障注入系统","description":"","frontmatter":{},"headers":[],"relativePath":"faults.md","filePath":"faults.md"}'),i={name:"faults.md"};function n(d,t,h,r,p,k){return s(),a("div",null,[...t[0]||(t[0]=[l("",28)])])}const c=e(i,[["render",n]]);export{y as __pageData,c as default};
